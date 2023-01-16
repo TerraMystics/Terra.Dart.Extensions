@@ -1,6 +1,6 @@
 name: terra_dart_sdk_extensions
 description: A lightweight library containing extensions for the terra ecosystem
-version: 1.0.0
+version: 1.0.5
 homepage: https://github.com/TerraMystics
 repository: https://github.com/TerraMystics/Terra.Dart.Extensions
 documentation: "https://docs.terra.money/"
@@ -23,7 +23,4 @@ dependencies:
   hex: ^0.2.0
   decimal: ^2.3.2
   protobuf: ^2.1.0
-
-dev_dependencies:
-  lints: ^2.0.0
-  test: ^1.16.0
+  hash: ^1.0.4
